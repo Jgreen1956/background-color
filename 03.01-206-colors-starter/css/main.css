@@ -76,6 +76,7 @@ footer {
 
   #column-3 {
     background-color:#ffffcc;
+    width: 100%;
   }
 
   footer {
@@ -101,6 +102,7 @@ footer {
 
   #column-3 {
     background-color: #e6ffff;
+    width:33.3%;
   }
 
   footer {
